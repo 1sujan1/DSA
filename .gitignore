@@ -8,4 +8,4 @@
 *.env
 
 # Ignore all vscode files
-/.vscode
+.vscode
